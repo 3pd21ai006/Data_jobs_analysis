@@ -1,6 +1,9 @@
 Data Jobs Dashboard with Power BI
+
 📊 Project Overview
+
 A Power BI dashboard analyzing 2024 data science job market trends using Luke Barousse's YouTube Project 1 dataset. This project visualizes salary patterns, job availability, and skill demands to provide actionable insights for data career planning.
+
 
 📂 Data Source
 Dataset: Luke Barousse's Data Science Job Market 2024
@@ -8,6 +11,7 @@ Dataset: Luke Barousse's Data Science Job Market 2024
 Size: 100,000+ job postings
 
 Fields: Job titles, salaries, locations, skills, experience levels
+
 
 🎯 Dashboard Features
 Page 1: Market Overview
@@ -28,6 +32,7 @@ Top required skills for each position
 
 Company size and salary correlation
 
+
 🔧 Technical Implementation
 Power Query Transformations
 Cleaned and standardized 100K+ records
@@ -35,6 +40,7 @@ Cleaned and standardized 100K+ records
 Extracted skills from unstructured descriptions
 
 Converted varied salary formats to annual equivalents
+
 
 DAX Measures
 Median Salary by Role
@@ -45,6 +51,7 @@ Experience Level Premium
 
 Top Skills Count
 
+
 Visualizations
 Bar and column charts for comparisons
 
@@ -53,6 +60,7 @@ Interactive map for geographic analysis
 Line charts for trend tracking
 
 Slicers and filters for dynamic exploration
+
 
 📈 Key Insights
 Top Paying Roles: Data Engineer ($130K) and Machine Learning Engineer ($145K)
@@ -63,6 +71,7 @@ Remote Work: 60% of roles offer remote/hybrid options
 
 Experience Impact: Senior roles pay 50-70% more than entry-level positions
 
+
 🛠️ How to Recreate
 Get the Data: Download from the link above
 
@@ -72,8 +81,10 @@ Visualization: Build dashboards with interactive elements
 
 Analysis: Add calculated measures and insights
 
+
 🖼️ Project Showcase
 (Screenshots would go here)
+
 
 🎓 Learning Outcomes
 Handling large datasets in Power BI
